@@ -14,4 +14,4 @@ Parameterized compression collar:
     washer_size = 8;
     bolt_size = 5;
 
-![preview/preview.png](Preview)
+![Preview](preview/preview.png)
